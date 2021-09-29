@@ -13,7 +13,7 @@ jedi==0.14.1
 jieba==0.39
 kiwisolver==1.1.0
 matplotlib==2.2.4
-nltk==3.2.2
+nltk==3.6.3
 numpy==1.16.4
 opencv-python==4.1.0.25
 paddlepaddle==1.5.1
