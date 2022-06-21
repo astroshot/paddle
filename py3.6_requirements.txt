@@ -14,7 +14,7 @@ jieba==0.39
 kiwisolver==1.1.0
 matplotlib==2.2.4
 nltk==3.2.2
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.0.25
 paddlepaddle==1.5.1
 parso==0.5.1
