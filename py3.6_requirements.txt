@@ -7,7 +7,7 @@ decorator==4.4.0
 funcsigs==1.0.2
 graphviz==0.11.1
 idna==2.8
-ipython==7.6.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.14.1
 jieba==0.39
